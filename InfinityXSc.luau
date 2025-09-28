@@ -11,7 +11,7 @@
                                                          /$$  | $$          
                                                         |  $$$$$$/          
                                                          \______/      
-        Welcome to InfinityX {v4.2a} | made by lmy77
+        Welcome to InfinityX {v4.2a} | made by 007n7scripts
 ]]--
 
 
